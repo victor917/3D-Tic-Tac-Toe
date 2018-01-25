@@ -6,5 +6,4 @@ Followed the tutorial from https://reactjs.org/tutorial/tutorial.html to create 
 
 * Added my own code to create a 3D version of the game where the win conditions can be satisfied by matching three identical units in a row vertically, horizontally, or across all three boards diagonally. 
 
-* Added refresh button.
-
+* Added "New Game" button.
